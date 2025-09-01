@@ -1,0 +1,11 @@
+librosa>=0.10.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+soundfile>=0.12.0
+pydub>=0.25.0
+pygame>=2.5.0
+pillow>=10.0.0
+kivy>=2.2.0
+kivymd>=1.1.0
+plyer>=2.1.0
